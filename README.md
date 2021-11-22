@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kuan-Yu Chen
 - 👀 I’m interested in Hardware Accelerator Design
-- 🌱 I’m currently an ECE PhD student at University of Michigan, Ann Arbor
+- 🌱 I’m currently an ECE PhD Candidate at University of Michigan, Ann Arbor
 - 💞️ I’m looking to collaborate on various design projects
 - 📫 How to reach me: knychen@umich.edu
 - 📜 CV : [CV](https://github.com/knyuchen/CV)
